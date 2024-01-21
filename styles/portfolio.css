@@ -3,6 +3,17 @@ justify-content: space-between;
 align-items: center;
 margin: o 200px;
 }
+.section-title{color: #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+}
+.section-description{
+    color: #757575;
+text-align: center;
+font: size 18PX; ;
+}
+
 body{font-family: 'Open Sans', sans-serif;}
 .nav-tittel{color: #181818;
     font-size: 45px;}
@@ -47,3 +58,10 @@ margin-bottom: 0;
     margin-top: 5px;
     margin
 }
+.about{padding: 130px;
+    border-radius: 10px;
+    background:#fff8f3;
+    margin:130px 0;
+}
+
+
